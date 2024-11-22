@@ -58,6 +58,6 @@ Contributions are welcome! Feel free to:
 
 ## Want to add Python code?
 
-Visit my other project [py2ducky](example.com) to easaily inject python scripts into a computer via keystrokes. All you need is a .py file, and it does the rest for you! 
+Visit my other project [py2ducky](https://github.com/brodieorefice/py2ducky) to easaily inject python scripts into a computer via keystrokes. All you need is a .py file, and it does the rest for you! 
  
 
