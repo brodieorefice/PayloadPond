@@ -4,9 +4,13 @@ ENTER
 DELAY 200
 STRING cd Desktop
 ENTER
-STRING cat > filename.txt
+STRING nano filename.txt
 ENTER
 DELAY 50
 STRING message
-CTRL c
+CTRL x
+DELAY 20
+STRING y
+DELAY 20
+ENTER
 GUI w
