@@ -1,0 +1,12 @@
+GUI space
+STRING terminal 
+ENTER
+DELAY 200
+STRING cd Desktop
+ENTER
+STRING cat > filename.txt
+ENTER
+DELAY 50
+STRING message
+CTRL c
+GUI w
