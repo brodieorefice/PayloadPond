@@ -1,6 +1,6 @@
 # Note: 
 
-Windows scripts are currently in development along with other OS's. Personally I write ones for Mac first as that's the os i'm on, and then translate them to a Linux verson if required. Only after that I will write a Windows equivalent becasuse of the vast differences. 
+Windows scripts are currently in development along with other OS's. Personally I write ones for Mac first as that's the os i'm on, and then translate them to a Linux verson if required. Only after that I will write a Windows equivalent because of the vast differences. 
 
 
 
