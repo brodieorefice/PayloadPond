@@ -10,17 +10,13 @@ This repository serves as a collection of useful, creative, and effective payloa
 
 The repository is organized into directories based on the purpose of each payload. Here’s how it’s structured:
 
-- **`/payloads/`**  
+- **`/macos/linux or windows /`**  
   Contains categorized payloads for different use cases.
   - **`/exfiltration/`** - Scripts for extracting sensitive data.
   - **`/pranks/`** - Fun and harmless pranks.
   - **`/automation/`** - Scripts to automate repetitive tasks.
   - **`/recon/`** - Payloads for network and system reconnaissance.
   - **`/exploitation/`** - Scripts for privilege escalation or exploiting known vulnerabilities.
-
-- **`/scripts/`**  
-  Utility scripts for encoding payloads, testing, or customizing the Rubber Ducky firmware.
-
 ---
 
 ## 🛠️ Requirements
