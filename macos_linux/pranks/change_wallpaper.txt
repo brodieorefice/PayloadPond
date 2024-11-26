@@ -1,0 +1,10 @@
+REM Mac OS X v10.0 + (aka any version that was released after march 2001)
+REM function: Replace wallaper with any photo 
+REM IMPORTANT: Replace IMAGE_URL with your image url.
+GUI SPACE
+STRING terminal 
+ENTER 
+DELAY 200 
+STRING curl -o ~/Desktop/prank.jpg "IMAGE_URL" ; osascript -e 'tell application "Finder" ; set desktop picture to POSIX file "Users/yourusername/Desktop/prank.jpg" ; end tell';
+ENTER
+GUI w
