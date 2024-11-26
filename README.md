@@ -1,3 +1,9 @@
+# Note: 
+
+Windows scripts are currently in development along with other OS's. Personally I write ones for Mac first as that's the os i'm on, and then translate them to a Linux verson if required. Only after that I will write a Windows equivalent becasuse of the vast differences. 
+
+
+
 # PayloadPond
 
 Welcome to **PayloadPond**, a repository dedicated to storing and sharing payloads for the USB Rubber Ducky. The USB Rubber Ducky is a powerful penetration testing tool disguised as a USB drive, capable of injecting keystroke payloads into target systems at lightning speed.
